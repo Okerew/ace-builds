@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.35.4](https://github.com/ajaxorg/ace/compare/v1.35.3...v1.35.4) (2024-07-22)
+
+
+### Bug Fixes
+
+* move right of cursor tokens to end of ghost text. ([#5616](https://github.com/ajaxorg/ace/issues/5616)) ([063ef9b](https://github.com/ajaxorg/ace/commit/063ef9bbe0934dfe75d9b447e8a92b69bfa41a3a))
+
+### [1.35.3](https://github.com/ajaxorg/ace/compare/v1.35.2...v1.35.3) (2024-07-18)
+
+
+### Bug Fixes
+
+* ghost text rendering of empty lines ([#5615](https://github.com/ajaxorg/ace/issues/5615)) ([1ae0bdc](https://github.com/ajaxorg/ace/commit/1ae0bdcfb9da4078713d116e93a9c9a935a1258d))
+
 ### [1.35.2](https://github.com/ajaxorg/ace/compare/v1.35.1...v1.35.2) (2024-07-01)
 
 ### [1.35.1](https://github.com/ajaxorg/ace/compare/v1.35.0...v1.35.1) (2024-06-27)
